@@ -1,3 +1,6 @@
 a = 10
 for i in range(a):
-    print(i)
+    
+    if i == 5:    
+    
+        print(i)
