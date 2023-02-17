@@ -1,9 +1,5 @@
 a = 10
 for i in range(a):
-    
-    if i == 5:    
-    
-        print(i)
+    print(i)
 
-while True:
-    break
+print(40)

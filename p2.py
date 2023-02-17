@@ -1,0 +1,1 @@
+print("abas ali to roghan")
